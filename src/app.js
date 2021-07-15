@@ -48,6 +48,9 @@ app.get("/weather",(req,res)=>{
         forcast: "Today very hot"},{
             location: "Tando Qaiser"}])
 })
+
+// I added an space here
+
 app.get("/help/*",(req,res)=>{
     res.render('4o4', {
         title: "404",

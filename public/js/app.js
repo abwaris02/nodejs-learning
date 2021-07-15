@@ -1,1 +1,1 @@
-console.log('this is folder of js')
+console.log('this is folder of js!')
